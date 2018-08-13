@@ -10,4 +10,3 @@ import com.qa.com.qa.AccountManagementSystem.Model.User;
 public interface Repo extends CrudRepository<User, Long> {
 	
 }
-
